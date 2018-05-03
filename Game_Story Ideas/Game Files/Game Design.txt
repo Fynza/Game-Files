@@ -1,0 +1,58 @@
+Follow Lillith Throne?
+
+WorldBuilding
+
+Stat style? SPECIAL/DND
+Magic
+-Offensive
+-Defensive
+-Supportive
+-Healing
+
+Objects
+
+Spells
+-Branch
+-Damage/Cost/Uses
+Items
+-Weapons Armor etc
+-Stats
+Characters
+-Race
+-Stats
+-Inventory
+-Equiped
+-Spells
+-Skills/Perks
+Monsters
+-Stats
+-Equiped
+-Drops
+
+Rooms
+-Contents
+-Linking rooms
+Dungeons
+-Ruins
+-Dungeons
+-Nests
+Rural
+-Farmland
+-Forests
+Urban
+-Cities
+-Towns
+-Villages
+
+Buildings
+-Market
+-Blacksmith
+-Inn
+-Etc
+
+Calculations
+-Modifiers
+
+Combat
+-Turn Based
+-Party
